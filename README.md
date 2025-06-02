@@ -1,4 +1,4 @@
-BaphometBot - Forex Signal Bot (XAU/USD)
+PeaceBot - Forex Signal Bot (XAU/USD)
 PeaceBot adalah bot Telegram yang memberikan sinyal beli/jual otomatis berdasarkan indikator RSI, MACD, dan EMA pada pair XAU/USD.
 
 Fitur
